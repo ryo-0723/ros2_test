@@ -1,0 +1,1 @@
+/home/ryo/ros2_ws/src/ydlidar_ros2_driver/launch/Tmini_launch_view.py
